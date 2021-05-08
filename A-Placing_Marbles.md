@@ -1,6 +1,7 @@
 ## 問題. [A - Placing Marbles](https://atcoder.jp/contests/abc081/tasks/abc081_a)
 
 <details><summary>私の解答</summary><div>
+  
 ```C++
 
 #include <bits/stdc++.h>
@@ -38,5 +39,6 @@ int main() {
   x = s1 + s2 + s3;
   cout << x << endl;
 }
+
 ```
 </div></details>
